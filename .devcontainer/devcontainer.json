@@ -30,6 +30,8 @@
 	// }
 
     // Use 'postCreateCommand' to run commands after the container is created.
+    //"postCreateCommand": "dotnet tool install -g clio --version 6.0.1.13",
+    //"postCreateCommand": "dotnet tool install -g clio --version 6.0.1.13",
     "postCreateCommand": "dotnet tool install -g clio --version 6.0.1.13"
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
