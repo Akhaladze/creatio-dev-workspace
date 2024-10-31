@@ -1,0 +1,12 @@
+{
+    "name": ".NET Core Launch (CreatioPackage)",
+    "type": "coreclr",
+    "request": "launch",
+    "preLaunchTask": "build",
+    "program": "${workspaceFolder}/Mbot/bin/Debug/net6.0/CreatioPackage.dll",
+    "args": [],
+    "cwd": "${workspaceFolder}/Mbot",
+    "stopAtEntry": false,
+    "console": "integratedTerminal",
+    "internalConsoleOptions": "neverOpen"
+}
