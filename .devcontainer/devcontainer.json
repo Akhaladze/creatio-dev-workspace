@@ -8,7 +8,9 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "AdvanceTechnologiesFoundation.clio-explorer"
+                "AdvanceTechnologiesFoundation.clio-explorer",
+                "ms-dotnettools.csdevkit",
+                "ms-dotnettools.csharp"
             ]
         }
     },
